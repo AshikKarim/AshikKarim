@@ -7,7 +7,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashikkarim&label=Profile%20views&color=0e75b6&style=flat" alt="ashikkarim" /> </p>
 <hr>
 <img align="right" width="300" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-<video align="left" width="300" src="astronaut-with-space-shuttle.mp4" autoplay muted loop></video>
 
 
 
