@@ -29,7 +29,7 @@
 
 ## Development Tool
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" weight="30" height="30"/></br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" weight="35" height="35"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" weight="30" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" weight="30" height="30"/>
 
 </div>
 <hr>
